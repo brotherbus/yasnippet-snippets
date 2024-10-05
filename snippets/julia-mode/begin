@@ -4,6 +4,6 @@
 # contributor: hankail05
 # --
 begin
-    ${1:body}
+    $0
 end
-$0
+
